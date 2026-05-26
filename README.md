@@ -1,6 +1,8 @@
 # Gemini Review Automation
 
 This repository includes a GitHub Action that triggers **Gemini Code Assist** review automatically on pull requests.
+Gemini Code Assist is very useful in github because it has such a generoud free tier (1000+ requests per google account)
+It's also nice as a lightweight/fast review agent to catch errors before a more in depth review. 
 
 ## 1) Set up free Gemini Code Assist on GitHub
 
